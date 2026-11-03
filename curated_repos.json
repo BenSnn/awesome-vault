@@ -1,0 +1,409 @@
+{
+  "curated_by": "BenSnn",
+  "generated_at": "2026-11-03T14:19:43.346037",
+  "categories": [
+    {
+      "id": "ai-agents",
+      "name": "🤖 AI, LLMs & Autonomous Agents",
+      "description": "Cutting-edge artificial intelligence, large language model frameworks, autonomous agent architectures, and local inference engines.",
+      "repos": [
+        {
+          "id": 1209966933,
+          "full_name": "morluto/rea",
+          "html_url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "stargazers_count": 424115,
+          "language": "TypeScript",
+          "created_at": "2026-04-14T00:51:32Z",
+          "topics": [
+            "agent-skills",
+            "ai",
+            "android",
+            "claude-code",
+            "cli",
+            "cpp",
+            "dsh-plugin",
+            "html",
+            "java",
+            "javascript",
+            "linux",
+            "mcp",
+            "nodejs",
+            "python",
+            "rea",
+            "react",
+            "rust",
+            "security",
+            "touhou",
+            "typescript"
+          ]
+        },
+        {
+          "id": 1103012935,
+          "full_name": "openclaw/openclaw",
+          "html_url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+          "stargazers_count": 393787,
+          "language": "TypeScript",
+          "created_at": "2025-11-24T10:16:47Z",
+          "topics": [
+            "ai",
+            "assistant",
+            "crustacean",
+            "molty",
+            "openclaw",
+            "own-your-data",
+            "personal"
+          ]
+        },
+        {
+          "id": 1073224795,
+          "full_name": "obra/superpowers",
+          "html_url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "stargazers_count": 311392,
+          "language": "Shell",
+          "created_at": "2025-10-09T19:45:18Z",
+          "topics": [
+            "ai",
+            "brainstorming",
+            "coding",
+            "obra",
+            "sdlc",
+            "skills",
+            "subagent-driven-development",
+            "superpowers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cybersecurity",
+      "name": "🛡️ Cyber Security, Pentesting & Forensics",
+      "description": "Security testing tools, vulnerability scanners, packet analysis, defense utilities, and network forensic suites.",
+      "repos": [
+        {
+          "id": 1032808806,
+          "full_name": "usestrix/strix",
+          "html_url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "stargazers_count": 73465,
+          "language": "Python",
+          "created_at": "2025-08-05T21:28:30Z",
+          "topics": [
+            "agents",
+            "ai-hacking",
+            "ai-penetration-testing",
+            "ai-pentesting",
+            "ai-security",
+            "artificial-intelligence",
+            "bug-bounty",
+            "code-quality",
+            "ctf-tools",
+            "cybersecurity",
+            "cybersecurity-tools",
+            "ethical-hacking",
+            "hacking",
+            "llm-security",
+            "offensive-security",
+            "penetration-testing",
+            "pentesting-tools",
+            "red-teaming",
+            "security",
+            "security-automation"
+          ]
+        },
+        {
+          "id": 1065059442,
+          "full_name": "KeygraphHQ/shannon",
+          "html_url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+          "stargazers_count": 51012,
+          "language": "TypeScript",
+          "created_at": "2025-09-27T01:51:47Z",
+          "topics": [
+            "ai-penetration-testing",
+            "ai-security",
+            "api-security",
+            "appsec",
+            "ci-cd",
+            "cybersecurity",
+            "devsecops",
+            "ethical-hacking",
+            "offensive-security",
+            "owasp",
+            "penetration-testing",
+            "pentesting",
+            "pentesting-tools",
+            "red-teaming",
+            "sarif",
+            "security",
+            "security-audit",
+            "security-automation",
+            "security-testing",
+            "security-tools"
+          ]
+        },
+        {
+          "id": 1166506614,
+          "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "html_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "stargazers_count": 35480,
+          "language": "Python",
+          "created_at": "2026-02-25T09:47:50Z",
+          "topics": [
+            "ai-agents",
+            "claude-code",
+            "cloud-security",
+            "cybersecurity",
+            "devsecops",
+            "ethical-hacking",
+            "incident-response",
+            "infosec",
+            "llm",
+            "malware-analysis",
+            "mcp",
+            "mitre-attack",
+            "nist-csf",
+            "osint",
+            "penetration-testing",
+            "red-team",
+            "security",
+            "security-automation",
+            "threat-hunting",
+            "threat-intelligence"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "devtools-cli",
+      "name": "⚡ Developer Tools & Modern CLI",
+      "description": "Terminal emulators, modern CLI utilities, high-performance developer ergonomics, and system productivity tools.",
+      "repos": [
+        {
+          "id": 968197216,
+          "full_name": "google-gemini/gemini-cli",
+          "html_url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "stargazers_count": 108695,
+          "language": "TypeScript",
+          "created_at": "2025-04-17T17:04:31Z",
+          "topics": [
+            "ai",
+            "ai-agents",
+            "cli",
+            "gemini",
+            "gemini-api",
+            "mcp-client",
+            "mcp-server"
+          ]
+        },
+        {
+          "id": 1165277268,
+          "full_name": "Panniantong/Agent-Reach",
+          "html_url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "stargazers_count": 108189,
+          "language": "Python",
+          "created_at": "2026-02-24T02:10:24Z",
+          "topics": [
+            "agent-infrastructure",
+            "ai-agent",
+            "ai-search",
+            "automation",
+            "bilibili",
+            "claude-code",
+            "cli",
+            "cursor",
+            "free-api",
+            "llm-tools",
+            "mcp",
+            "python",
+            "reddit-scraper",
+            "twitter-scraper",
+            "web-scraper",
+            "xiaohongshu",
+            "youtube-transcript"
+          ]
+        },
+        {
+          "id": 771302083,
+          "full_name": "OpenHands/OpenHands",
+          "html_url": "https://github.com/OpenHands/OpenHands",
+          "description": "🙌 OpenHands: AI-Driven Development",
+          "stargazers_count": 92537,
+          "language": "TypeScript",
+          "created_at": "2024-03-13T03:33:31Z",
+          "topics": [
+            "agent",
+            "artificial-intelligence",
+            "chatgpt",
+            "claude-ai",
+            "cli",
+            "developer-tools",
+            "gpt",
+            "llm",
+            "openai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "devops-monitoring",
+      "name": "📊 DevOps, Cloud & Infrastructure",
+      "description": "Log parsers, real-time monitoring daemons, containerization tools, microservice orchestrators, and CI/CD pipelines.",
+      "repos": [
+        {
+          "id": 788847937,
+          "full_name": "Dokploy/dokploy",
+          "html_url": "https://github.com/Dokploy/dokploy",
+          "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+          "stargazers_count": 38203,
+          "language": "TypeScript",
+          "created_at": "2024-04-19T07:49:30Z",
+          "topics": [
+            "agents",
+            "ai",
+            "backend",
+            "backups",
+            "databases",
+            "deployment",
+            "deployments",
+            "devops",
+            "docker",
+            "frontend",
+            "mariadb",
+            "mongodb",
+            "mysql",
+            "nextjs",
+            "postgresql",
+            "self-hosted",
+            "vps"
+          ]
+        },
+        {
+          "id": 1160497244,
+          "full_name": "floci-io/floci",
+          "html_url": "https://github.com/floci-io/floci",
+          "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+          "stargazers_count": 28027,
+          "language": "Java",
+          "created_at": "2026-02-18T02:28:29Z",
+          "topics": [
+            "aws",
+            "aws-emulation",
+            "devops",
+            "docker",
+            "ec2",
+            "ecs",
+            "localstack",
+            "s3",
+            "sqs",
+            "testcontainers"
+          ]
+        },
+        {
+          "id": 1120195677,
+          "full_name": "pranshuparmar/witr",
+          "html_url": "https://github.com/pranshuparmar/witr",
+          "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. ",
+          "stargazers_count": 22910,
+          "language": "Go",
+          "created_at": "2025-12-20T17:26:59Z",
+          "topics": [
+            "cli",
+            "containers",
+            "devops",
+            "docker",
+            "freebsd",
+            "go",
+            "golang",
+            "incident-response",
+            "kubernetes",
+            "linux",
+            "macos",
+            "monitoring",
+            "observability",
+            "process-management",
+            "sysadmin",
+            "systemd",
+            "terminal",
+            "troubleshooting",
+            "tui",
+            "windows"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "web-backend",
+      "name": "🌐 Modern Web & High-Performance Backends",
+      "description": "Fast web frameworks, asynchronous backend servers, API tooling, and lightweight web architectures.",
+      "repos": [
+        {
+          "id": 911303109,
+          "full_name": "iii-hq/iii",
+          "html_url": "https://github.com/iii-hq/iii",
+          "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+          "stargazers_count": 18880,
+          "language": "Rust",
+          "created_at": "2025-01-02T17:45:02Z",
+          "topics": [
+            "agents",
+            "ai",
+            "api",
+            "backend",
+            "developer-tools",
+            "engine",
+            "genai",
+            "javascript",
+            "primitives",
+            "python",
+            "rust",
+            "typescript"
+          ]
+        },
+        {
+          "id": 769023213,
+          "full_name": "convex/convex-backend",
+          "html_url": "https://github.com/convex/convex-backend",
+          "description": "The open-source reactive database for app developers",
+          "stargazers_count": 12773,
+          "language": "TypeScript",
+          "created_at": "2024-03-08T07:23:15Z",
+          "topics": [
+            "backend",
+            "convex",
+            "database",
+            "rust",
+            "typescript"
+          ]
+        },
+        {
+          "id": 1236313235,
+          "full_name": "Fractal-Compute-Orchestrations/FractalCore",
+          "html_url": "https://github.com/Fractal-Compute-Orchestrations/FractalCore",
+          "description": "The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg.",
+          "stargazers_count": 4992,
+          "language": "Python",
+          "created_at": "2026-05-12T06:19:35Z",
+          "topics": [
+            "backend",
+            "fedavg",
+            "federated-learning",
+            "flask",
+            "iot",
+            "model-aggregation",
+            "orchestrator",
+            "orchestrator-engine",
+            "python",
+            "server",
+            "tensorflow"
+          ]
+        }
+      ]
+    }
+  ]
+}
